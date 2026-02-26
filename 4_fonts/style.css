@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bpmf+Zihi+Kai+Std&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playpen+Sans+Deva:wght@100..800&display=swap');
+
+@font-face {
+    font-family: "saboorFont";
+    src: url(../4_fonts/fonts/Valentine\ Delight.otf);
+}
+body{
+    background-color: blanchedalmond;
+    display: grid;
+    place-items: center;
+    font-family: "Playpen Sans Deva", cursive;
+}
+.hero-section{
+    width: 50%;
+}
+p{
+font-weight: 600 ;
+font-size: 12px;
+font-style:oblique;
+}
+h1{
+font-family: "saboorFont";
+font-variant:small-caps;
+
+}
